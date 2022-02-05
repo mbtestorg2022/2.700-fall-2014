@@ -24,44 +24,639 @@ TA = Teaching Assistant
 
 GL = Guest Lecture
 
-| SES # | TOPICS | INSTRUCTORS | KEY DATES |
-| --- | --- | --- | --- |
-| L1 | Introduction to the Course and Naval Architecture | JH | &nbsp; |
-| R1 | Computer-aided Design (CAD) Tools | TA | Project 1 Assigned |
-| L2 | Hydrostatics Review | TS | &nbsp; |
-| L3 | Ship Geometry | JH | &nbsp; |
-| R2 | CAD Tools | TA | &nbsp; |
-| L4 | Ship Geometry (cont.) | JH | &nbsp; |
-| L5 | Ship Geometry (cont.) | JH | &nbsp; |
-| L6 | Intact Stability | TS |  {{< br >}}{{< br >}} Project 1 Due {{< br >}}{{< br >}} Project 2 Assigned {{< br >}}{{< br >}}  |
-| L7 | Intact Stability (cont.) | TS | &nbsp; |
-| R3 | CAD Tools and Review | TA | &nbsp; |
-| L8 || {{< td-colspan 3 >}}Quiz 1{{< /td-colspan >}} |||
-| L9 | Intact Stability | TS |  {{< br >}}{{< br >}} Project 2 Due {{< br >}}{{< br >}} Project 3 Assigned {{< br >}}{{< br >}}  |
-| R4 | CAD Tools and Quiz Review | TA | &nbsp; |
-| L10 | Intact Stability (cont.) | TS | Paper Project Assigned |
-| L11 | Intact Stability (cont.) | TS | &nbsp; |
-| R5 | CAD Tools | TA |  {{< br >}}{{< br >}} Project 3 Due {{< br >}}{{< br >}} Project 4 Assigned {{< br >}}{{< br >}}  |
-| L12 | Damage Stability | JH | &nbsp; |
-| R6 | CAD Tools | TA | &nbsp; |
-| L13 | Damage Stability (cont.) | JH |  {{< br >}}{{< br >}} Project 4 Due {{< br >}}{{< br >}} Project 5 Assigned {{< br >}}{{< br >}}  |
-| L14 || {{< td-colspan 3 >}}Quiz 2{{< /td-colspan >}} |||
-| R7 | Quiz Review | TA | &nbsp; |
-| L15 | Resistance | JH | &nbsp; |
-| L16 | Resistance (cont.) | JH | &nbsp; |
-| R8 | CAD Tools and Review | TA |  {{< br >}}{{< br >}} Project 5 Due {{< br >}}{{< br >}} Project 6 Assigned {{< br >}}{{< br >}}  |
-| L17 | Resistance (cont.) | TS | Paper Topic Due |
-| Lab 1 | [Towtank Lab](http://web.mit.edu/towtank/www/) | &nbsp; |
-| Lab 2 | [Towtank Lab](http://web.mit.edu/towtank/www/) (cont.) | &nbsp; |
-| L18 | Strength of Ships | JH |  {{< br >}}{{< br >}} Project 6 Due {{< br >}}{{< br >}} Project 7 Assigned {{< br >}}{{< br >}}  |
-| R9 | Lab Data Review | TA | &nbsp; |
-| L19 | Strength of Ships (cont.) | JH | &nbsp; |
-| L20 | Strength of Ships (cont.) | JH | &nbsp; |
-| R10 | CAD Tools and Review | TA | &nbsp; |
-| L21 |  {{< br >}}{{< br >}} Advanced Hull Forms {{< br >}}{{< br >}} Guest Lecturer: Stefano Brizzolara, [MIT Sea Grant](http://seagrant.mit.edu/index.php) {{< br >}}{{< br >}}  | GL | Project 7 Due |
-| L22 |  {{< br >}}{{< br >}} Advanced Hull Forms (cont.) {{< br >}}{{< br >}} Guest Lecturer: Stefano Brizzolara, [MIT Sea Grant](http://seagrant.mit.edu/index.php) {{< br >}}{{< br >}}  | GL | &nbsp; |
-| L23 | Advanced Topics | &nbsp; | Paper Due |
-| L24 || {{< td-colspan 3 >}}Quiz 3{{< /td-colspan >}} |||
-| R11 | Quiz Review | TA | &nbsp; |
-| L25 | Paper Presentations | &nbsp; |
-| L26 | Paper Presentations (cont.) | &nbsp; |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+INSTRUCTORS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the Course and Naval Architecture
+{{< tdclose >}}
+{{< tdopen >}}
+JH
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R1
+{{< tdclose >}}
+{{< tdopen >}}
+Computer-aided Design (CAD) Tools
+{{< tdclose >}}
+{{< tdopen >}}
+TA
+{{< tdclose >}}
+{{< tdopen >}}
+Project 1 Assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+Hydrostatics Review
+{{< tdclose >}}
+{{< tdopen >}}
+TS
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Ship Geometry
+{{< tdclose >}}
+{{< tdopen >}}
+JH
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R2
+{{< tdclose >}}
+{{< tdopen >}}
+CAD Tools
+{{< tdclose >}}
+{{< tdopen >}}
+TA
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Ship Geometry (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+JH
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+Ship Geometry (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+JH
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+Intact Stability
+{{< tdclose >}}
+{{< tdopen >}}
+TS
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Project 1 Due
+
+Project 2 Assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+Intact Stability (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+TS
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R3
+{{< tdclose >}}
+{{< tdopen >}}
+CAD Tools and Review
+{{< tdclose >}}
+{{< tdopen >}}
+TA
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen colspan="3" >}}
+Quiz 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+Intact Stability
+{{< tdclose >}}
+{{< tdopen >}}
+TS
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Project 2 Due
+
+Project 3 Assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R4
+{{< tdclose >}}
+{{< tdopen >}}
+CAD Tools and Quiz Review
+{{< tdclose >}}
+{{< tdopen >}}
+TA
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+Intact Stability (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+TS
+{{< tdclose >}}
+{{< tdopen >}}
+Paper Project Assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+Intact Stability (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+TS
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R5
+{{< tdclose >}}
+{{< tdopen >}}
+CAD Tools
+{{< tdclose >}}
+{{< tdopen >}}
+TA
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Project 3 Due
+
+Project 4 Assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+Damage Stability
+{{< tdclose >}}
+{{< tdopen >}}
+JH
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R6
+{{< tdclose >}}
+{{< tdopen >}}
+CAD Tools
+{{< tdclose >}}
+{{< tdopen >}}
+TA
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+Damage Stability (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+JH
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Project 4 Due
+
+Project 5 Assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen colspan="3" >}}
+Quiz 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R7
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz Review
+{{< tdclose >}}
+{{< tdopen >}}
+TA
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+Resistance
+{{< tdclose >}}
+{{< tdopen >}}
+JH
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16
+{{< tdclose >}}
+{{< tdopen >}}
+Resistance (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+JH
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R8
+{{< tdclose >}}
+{{< tdopen >}}
+CAD Tools and Review
+{{< tdclose >}}
+{{< tdopen >}}
+TA
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Project 5 Due
+
+Project 6 Assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+{{< tdopen >}}
+Resistance (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+TS
+{{< tdclose >}}
+{{< tdopen >}}
+Paper Topic Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 1
+{{< tdclose >}}
+{{< tdopen >}}
+[Towtank Lab](http://web.mit.edu/towtank/www/)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 2
+{{< tdclose >}}
+{{< tdopen >}}
+[Towtank Lab](http://web.mit.edu/towtank/www/) (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L18
+{{< tdclose >}}
+{{< tdopen >}}
+Strength of Ships
+{{< tdclose >}}
+{{< tdopen >}}
+JH
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Project 6 Due
+
+Project 7 Assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R9
+{{< tdclose >}}
+{{< tdopen >}}
+Lab Data Review
+{{< tdclose >}}
+{{< tdopen >}}
+TA
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L19
+{{< tdclose >}}
+{{< tdopen >}}
+Strength of Ships (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+JH
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20
+{{< tdclose >}}
+{{< tdopen >}}
+Strength of Ships (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+JH
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R10
+{{< tdclose >}}
+{{< tdopen >}}
+CAD Tools and Review
+{{< tdclose >}}
+{{< tdopen >}}
+TA
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Advanced Hull Forms
+
+Guest Lecturer: Stefano Brizzolara, [MIT Sea Grant](http://seagrant.mit.edu/index.php)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+GL
+{{< tdclose >}}
+{{< tdopen >}}
+Project 7 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Advanced Hull Forms (cont.)
+
+Guest Lecturer: Stefano Brizzolara, [MIT Sea Grant](http://seagrant.mit.edu/index.php)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+GL
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L23
+{{< tdclose >}}
+{{< tdopen >}}
+Advanced Topics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Paper Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L24
+{{< tdclose >}}
+{{< tdopen colspan="3" >}}
+Quiz 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R11
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz Review
+{{< tdclose >}}
+{{< tdopen >}}
+TA
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L25
+{{< tdclose >}}
+{{< tdopen >}}
+Paper Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L26
+{{< tdclose >}}
+{{< tdopen >}}
+Paper Presentations (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
