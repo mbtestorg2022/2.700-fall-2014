@@ -32,7 +32,7 @@ Curriculum Information
 
 Either of these courses satisfy the prerequisite:
 
-*   [_2.002 Mechanics and Materials II_](/courses/2-002-mechanics-and-materials-ii-spring-2004/)
+*   [_2.002 Mechanics and Materials II_](/courses/2-002-mechanics-and-materials-ii-spring-2004)
 *   [_2.02B Mechanics of Structures_](http://student.mit.edu/catalog/m2a.html#2.02B)
 
 ### Requirements Satisfied
